@@ -6,7 +6,7 @@ A small library of my custom PyQt5 widgets
 
 ### CheckListWidget
 
-![](images/chechlistwidget.png?raw=true)
+![](images/checklistwidget.png?raw=true)
 
 ```python
 import sys
